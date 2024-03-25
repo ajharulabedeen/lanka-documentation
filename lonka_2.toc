@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Login}{4}{}%
+\contentsline {section}{\numberline {2}Super Admin}{4}{}%
+\contentsline {section}{\numberline {3}HoD Dashboard}{4}{}%
+\contentsline {section}{\numberline {4}CM Dashboard}{5}{}%
+\contentsline {section}{\numberline {5}RM Dashboard}{5}{}%
+\contentsline {section}{\numberline {6}RO Dashboard}{6}{}%

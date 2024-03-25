@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}User Loggin}{2}{}%
+\contentsline {section}{\numberline {2}Super Admin}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Select User Role}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Enter Specific User Name}{2}{}%
+\contentsline {subsection}{\numberline {2.3}Press the "Details" Button}{2}{}%
+\contentsline {subsection}{\numberline {2.4}Verification Process}{2}{}%
+\contentsline {subsection}{\numberline {2.5}Outcome Handling}{2}{}%
+\contentsline {section}{\numberline {3}HoD Dashboard}{2}{}%
+\contentsline {section}{\numberline {4}CM Dashboard}{2}{}%
+\contentsline {section}{\numberline {5}RM Dashboard}{2}{}%
