@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.19)  25 MAR 2024 16:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.19)  25 MAR 2024 16:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -207,31 +207,19 @@ Package caption Info: End \AtBeginDocument code.
 <image/logo_lbfl.png, id=1, 469.6066pt x 178.44902pt>
 File: image/logo_lbfl.png Graphic file (type png)
 <use image/logo_lbfl.png>
-Package pdftex.def Info: image/logo_lbfl.png  used on input line 24.
+Package pdftex.def Info: image/logo_lbfl.png  used on input line 26.
 (pdftex.def)             Requested size: 469.75502pt x 178.50845pt.
-<image/usl_logo.png, id=3, 76.48575pt x 24.09pt>
-File: image/usl_logo.png Graphic file (type png)
-<use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 30.
-(pdftex.def)             Requested size: 63.49947pt x 20.0pt.
+[1
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 23.60004pt, for example:
-(fancyhdr)                \setlength{\headheight}{23.60004pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
-
-[1{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
-
- <./image/usl_logo.png> <./image/logo_lbfl.png>]
+{C:/Users/User/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./image/logo_
+lbfl.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 30.
+(Font)              <12> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 30.
+(Font)              <8> on input line 45.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 30.
- [2] (lonka_2.toc
+(Font)              <6> on input line 45.
+ [1] (lonka_2.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -240,9 +228,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `lonka_2.toc'.
 
+<image/usl_logo.png, id=14, 76.48575pt x 24.09pt>
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 39.
+Package pdftex.def Info: image/usl_logo.png  used on input line 54.
 (pdftex.def)             Requested size: 63.49947pt x 20.0pt.
 
 
@@ -253,21 +242,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[3]
+[2 <./image/usl_logo.png>]
 <image/user_login_1.png, id=21, 254.1495pt x 238.491pt>
 File: image/user_login_1.png Graphic file (type png)
 <use image/user_login_1.png>
-Package pdftex.def Info: image/user_login_1.png  used on input line 49.
+Package pdftex.def Info: image/user_login_1.png  used on input line 64.
 (pdftex.def)             Requested size: 352.31625pt x 330.63904pt.
 <image/forget_pass_mail_addr.png, id=22, 359.09157pt x 255.95625pt>
 File: image/forget_pass_mail_addr.png Graphic file (type png)
 <use image/forget_pass_mail_addr.png>
-Package pdftex.def Info: image/forget_pass_mail_addr.png  used on input line 57
+Package pdftex.def Info: image/forget_pass_mail_addr.png  used on input line 72
 .
 (pdftex.def)             Requested size: 352.31625pt x 251.14394pt.
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 58.
+Package pdftex.def Info: image/usl_logo.png  used on input line 73.
 (pdftex.def)             Requested size: 63.49947pt x 20.0pt.
 
 
@@ -278,16 +267,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[4 <./image/user_login_1.png>]
+[3 <./image/user_login_1.png>]
 <image/usernot_found_forget_pass.png, id=27, 352.31625pt x 347.04657pt>
 File: image/usernot_found_forget_pass.png Graphic file (type png)
 <use image/usernot_found_forget_pass.png>
 Package pdftex.def Info: image/usernot_found_forget_pass.png  used on input lin
-e 66.
+e 81.
 (pdftex.def)             Requested size: 352.31625pt x 347.04572pt.
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 71.
+Package pdftex.def Info: image/usl_logo.png  used on input line 86.
 (pdftex.def)             Requested size: 63.49947pt x 20.0pt.
 
 
@@ -298,21 +287,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[5 <./image/forget_pass_mail_addr.png> <./image/usernot_found_forget_pass.png>]
+[4 <./image/forget_pass_mail_addr.png> <./image/usernot_found_forget_pass.png>]
 <image/verification_code_send.png, id=33, 351.56343pt x 350.81062pt>
 File: image/verification_code_send.png Graphic file (type png)
 <use image/verification_code_send.png>
-Package pdftex.def Info: image/verification_code_send.png  used on input line 7
-2.
+Package pdftex.def Info: image/verification_code_send.png  used on input line 8
+7.
 (pdftex.def)             Requested size: 352.31625pt x 351.55916pt.
 <image/super_admin.png, id=34, 414.348pt x 249.93375pt>
 File: image/super_admin.png Graphic file (type png)
 <use image/super_admin.png>
-Package pdftex.def Info: image/super_admin.png  used on input line 90.
+Package pdftex.def Info: image/super_admin.png  used on input line 105.
 (pdftex.def)             Requested size: 352.31625pt x 212.51715pt.
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 91.
+Package pdftex.def Info: image/usl_logo.png  used on input line 106.
 (pdftex.def)             Requested size: 63.49947pt x 20.0pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -322,8 +311,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[6 <./image/verification_code_send.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+[5 <./image/verification_code_send.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
  []
 
@@ -331,21 +320,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--93
 File: image/super_admin_user_not_found.png Graphic file (type png)
 <use image/super_admin_user_not_found.png>
 Package pdftex.def Info: image/super_admin_user_not_found.png  used on input li
-ne 96.
+ne 111.
 (pdftex.def)             Requested size: 352.31625pt x 251.49287pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
 <image/hod_1.png, id=40, 469.755pt x 237.88875pt>
 File: image/hod_1.png Graphic file (type png)
 <use image/hod_1.png>
-Package pdftex.def Info: image/hod_1.png  used on input line 108.
+Package pdftex.def Info: image/hod_1.png  used on input line 123.
 (pdftex.def)             Requested size: 469.75502pt x 237.88815pt.
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 109.
+Package pdftex.def Info: image/usl_logo.png  used on input line 124.
 (pdftex.def)             Requested size: 63.49947pt x 20.0pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -355,29 +344,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[7 <./image/super_admin.png> <./image/super_admin_user_not_found.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[6 <./image/super_admin.png> <./image/super_admin_user_not_found.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
 
  []
 
 <image/hod_2.png, id=47, 469.755pt x 219.82124pt>
 File: image/hod_2.png Graphic file (type png)
 <use image/hod_2.png>
-Package pdftex.def Info: image/hod_2.png  used on input line 115.
+Package pdftex.def Info: image/hod_2.png  used on input line 130.
 (pdftex.def)             Requested size: 469.75502pt x 219.8207pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
 <image/hod_3.png, id=48, 469.755pt x 200.24812pt>
 File: image/hod_3.png Graphic file (type png)
 <use image/hod_3.png>
-Package pdftex.def Info: image/hod_3.png  used on input line 120.
+Package pdftex.def Info: image/hod_3.png  used on input line 135.
 (pdftex.def)             Requested size: 469.75502pt x 200.24763pt.
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 121.
+Package pdftex.def Info: image/usl_logo.png  used on input line 136.
 (pdftex.def)             Requested size: 63.49947pt x 20.0pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -387,20 +376,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[8 <./image/hod_1.png> <./image/hod_2.png>]
+[7 <./image/hod_1.png> <./image/hod_2.png>]
 <image/hod_4.png, id=54, 469.755pt x 189.70876pt>
 File: image/hod_4.png Graphic file (type png)
 <use image/hod_4.png>
-Package pdftex.def Info: image/hod_4.png  used on input line 126.
+Package pdftex.def Info: image/hod_4.png  used on input line 141.
 (pdftex.def)             Requested size: 469.75502pt x 189.70828pt.
 <image/cm_dashboard_image.png, id=55, 469.755pt x 192.11775pt>
 File: image/cm_dashboard_image.png Graphic file (type png)
 <use image/cm_dashboard_image.png>
-Package pdftex.def Info: image/cm_dashboard_image.png  used on input line 138.
+Package pdftex.def Info: image/cm_dashboard_image.png  used on input line 153.
 (pdftex.def)             Requested size: 469.75502pt x 192.11728pt.
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 139.
+Package pdftex.def Info: image/usl_logo.png  used on input line 154.
 (pdftex.def)             Requested size: 63.49947pt x 20.0pt.
 
 
@@ -411,20 +400,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[9 <./image/hod_3.png> <./image/hod_4.png>]
+[8 <./image/hod_3.png> <./image/hod_4.png>]
 <image/cm_2.png, id=61, 469.755pt x 216.20775pt>
 File: image/cm_2.png Graphic file (type png)
 <use image/cm_2.png>
-Package pdftex.def Info: image/cm_2.png  used on input line 143.
+Package pdftex.def Info: image/cm_2.png  used on input line 158.
 (pdftex.def)             Requested size: 469.75502pt x 216.20721pt.
 <image/rm_1_team_view.png, id=62, 469.755pt x 240.29774pt>
 File: image/rm_1_team_view.png Graphic file (type png)
 <use image/rm_1_team_view.png>
-Package pdftex.def Info: image/rm_1_team_view.png  used on input line 152.
+Package pdftex.def Info: image/rm_1_team_view.png  used on input line 167.
 (pdftex.def)             Requested size: 352.31625pt x 180.22285pt.
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 153.
+Package pdftex.def Info: image/usl_logo.png  used on input line 168.
 (pdftex.def)             Requested size: 63.49947pt x 20.0pt.
 
 
@@ -435,45 +424,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[10 <./image/cm_dashboard_image.png> <./image/cm_2.png>]
+[9 <./image/cm_dashboard_image.png> <./image/cm_2.png>]
 <image/ro_1.png, id=68, 979.2585pt x 324.0105pt>
 File: image/ro_1.png Graphic file (type png)
 <use image/ro_1.png>
-Package pdftex.def Info: image/ro_1.png  used on input line 162.
+Package pdftex.def Info: image/ro_1.png  used on input line 177.
 (pdftex.def)             Requested size: 469.75502pt x 155.42934pt.
 <image/ro_3_commited_clients_popup.png, id=69, 906.9885pt x 446.8695pt>
 File: image/ro_3_commited_clients_popup.png Graphic file (type png)
 <use image/ro_3_commited_clients_popup.png>
 Package pdftex.def Info: image/ro_3_commited_clients_popup.png  used on input l
-ine 170.
+ine 185.
 (pdftex.def)             Requested size: 352.31625pt x 173.5829pt.
-File: image/usl_logo.png Graphic file (type png)
-<use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 176.
-(pdftex.def)             Requested size: 63.49947pt x 20.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 23.60004pt, for example:
-(fancyhdr)                \setlength{\headheight}{23.60004pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
-
-[11 <./image/rm_1_team_view.png> <./image/ro_1.png> <./image/ro_3_commited_clie
-nts_popup.png>]
-<image/ro_4_commited_clients_detailspng.png, id=76, 976.24725pt x 483.0045pt>
-File: image/ro_4_commited_clients_detailspng.png Graphic file (type png)
-<use image/ro_4_commited_clients_detailspng.png>
-Package pdftex.def Info: image/ro_4_commited_clients_detailspng.png  used on in
-put line 184.
-(pdftex.def)             Requested size: 352.31625pt x 174.30894pt.
-<image/ro_5_portfilo_asset.png, id=77, 229.45724pt x 235.47975pt>
-File: image/ro_5_portfilo_asset.png Graphic file (type png)
-<use image/ro_5_portfilo_asset.png>
-Package pdftex.def Info: image/ro_5_portfilo_asset.png  used on input line 190.
-
-(pdftex.def)             Requested size: 352.31625pt x 361.59073pt.
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
 Package pdftex.def Info: image/usl_logo.png  used on input line 191.
@@ -487,10 +449,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[12 <./image/ro_4_commited_clients_detailspng.png>]
+[10 <./image/rm_1_team_view.png> <./image/ro_1.png> <./image/ro_3_commited_clie
+nts_popup.png>]
+<image/ro_4_commited_clients_detailspng.png, id=76, 976.24725pt x 483.0045pt>
+File: image/ro_4_commited_clients_detailspng.png Graphic file (type png)
+<use image/ro_4_commited_clients_detailspng.png>
+Package pdftex.def Info: image/ro_4_commited_clients_detailspng.png  used on in
+put line 199.
+(pdftex.def)             Requested size: 352.31625pt x 174.30894pt.
+<image/ro_5_portfilo_asset.png, id=77, 229.45724pt x 235.47975pt>
+File: image/ro_5_portfilo_asset.png Graphic file (type png)
+<use image/ro_5_portfilo_asset.png>
+Package pdftex.def Info: image/ro_5_portfilo_asset.png  used on input line 205.
+
+(pdftex.def)             Requested size: 352.31625pt x 361.59073pt.
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 211.
+Package pdftex.def Info: image/usl_logo.png  used on input line 206.
 (pdftex.def)             Requested size: 63.49947pt x 20.0pt.
 
 
@@ -501,25 +476,39 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[13 <./image/ro_5_portfilo_asset.png>]
+[11 <./image/ro_4_commited_clients_detailspng.png>]
+File: image/usl_logo.png Graphic file (type png)
+<use image/usl_logo.png>
+Package pdftex.def Info: image/usl_logo.png  used on input line 226.
+(pdftex.def)             Requested size: 63.49947pt x 20.0pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
+
+[12 <./image/ro_5_portfilo_asset.png>]
 <image/ro_2.png, id=88, 976.8495pt x 466.74374pt>
 File: image/ro_2.png Graphic file (type png)
 <use image/ro_2.png>
-Package pdftex.def Info: image/ro_2.png  used on input line 221.
+Package pdftex.def Info: image/ro_2.png  used on input line 236.
 (pdftex.def)             Requested size: 469.75502pt x 224.44753pt.
 <image/ro_6_sample_excel.png, id=89, 1155.1155pt x 612.48825pt>
 File: image/ro_6_sample_excel.png Graphic file (type png)
 <use image/ro_6_sample_excel.png>
-Package pdftex.def Info: image/ro_6_sample_excel.png  used on input line 228.
+Package pdftex.def Info: image/ro_6_sample_excel.png  used on input line 243.
 (pdftex.def)             Requested size: 469.75502pt x 249.08443pt.
 <image/change_password.png, id=90, 977.45175pt x 333.04425pt>
 File: image/change_password.png Graphic file (type png)
 <use image/change_password.png>
-Package pdftex.def Info: image/change_password.png  used on input line 234.
+Package pdftex.def Info: image/change_password.png  used on input line 249.
 (pdftex.def)             Requested size: 469.75502pt x 160.0576pt.
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 236.
+Package pdftex.def Info: image/usl_logo.png  used on input line 251.
 (pdftex.def)             Requested size: 63.49947pt x 20.0pt.
 
 
@@ -530,10 +519,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[14 <./image/ro_2.png> <./image/ro_6_sample_excel.png>]
+[13 <./image/ro_2.png> <./image/ro_6_sample_excel.png>]
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 257.
+Package pdftex.def Info: image/usl_logo.png  used on input line 272.
 (pdftex.def)             Requested size: 63.49947pt x 20.0pt.
 
 
@@ -544,13 +533,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[15 <./image/change_password.png>] (lonka_2.aux) ) 
+[14 <./image/change_password.png>] (lonka_2.aux) ) 
 Here is how much of TeX's memory you used:
- 4091 strings out of 475385
- 75711 string characters out of 2786725
+ 4092 strings out of 475385
+ 75728 string characters out of 2786725
  507447 words of memory out of 3000000
- 25439 multiletter control sequences out of 15000+600000
- 473849 words of font info for 43 fonts, out of 8000000 for 9000
+ 25440 multiletter control sequences out of 15000+600000
+ 474148 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,16n,77p,452b,387s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\User\AppData\Local
@@ -559,7 +548,7 @@ Here is how much of TeX's memory you used:
 /public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
 .pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on lonka_2.pdf (15 pages, 2797140 bytes).
+Output written on lonka_2.pdf (15 pages, 2797961 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
