@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.19)  25 MAR 2024 16:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.3.19)  27 MAR 2024 12:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -520,9 +520,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
 [13 <./image/ro_2.png> <./image/ro_6_sample_excel.png>]
+<image/settings_target_view.png, id=96, 1152.10425pt x 517.935pt>
+File: image/settings_target_view.png Graphic file (type png)
+<use image/settings_target_view.png>
+Package pdftex.def Info: image/settings_target_view.png  used on input line 283
+.
+(pdftex.def)             Requested size: 469.75502pt x 211.17715pt.
 File: image/usl_logo.png Graphic file (type png)
 <use image/usl_logo.png>
-Package pdftex.def Info: image/usl_logo.png  used on input line 272.
+Package pdftex.def Info: image/usl_logo.png  used on input line 285.
 (pdftex.def)             Requested size: 63.49947pt x 20.0pt.
 
 
@@ -533,24 +539,59 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
 
-[14 <./image/change_password.png>] (lonka_2.aux) ) 
+[14 <./image/change_password.png>]
+<image/setting_target_single_view.png, id=101, 981.6675pt x 479.99326pt>
+File: image/setting_target_single_view.png Graphic file (type png)
+<use image/setting_target_single_view.png>
+Package pdftex.def Info: image/setting_target_single_view.png  used on input li
+ne 312.
+(pdftex.def)             Requested size: 469.75502pt x 229.69102pt.
+File: image/usl_logo.png Graphic file (type png)
+<use image/usl_logo.png>
+Package pdftex.def Info: image/usl_logo.png  used on input line 314.
+(pdftex.def)             Requested size: 63.49947pt x 20.0pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
+
+[15 <./image/settings_target_view.png>]
+File: image/usl_logo.png Graphic file (type png)
+<use image/usl_logo.png>
+Package pdftex.def Info: image/usl_logo.png  used on input line 326.
+(pdftex.def)             Requested size: 63.49947pt x 20.0pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 23.60004pt, for example:
+(fancyhdr)                \setlength{\headheight}{23.60004pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-11.60004pt}.
+
+[16 <./image/setting_target_single_view.png>] (lonka_2.aux) ) 
 Here is how much of TeX's memory you used:
- 4092 strings out of 475385
- 75728 string characters out of 2786725
- 507447 words of memory out of 3000000
- 25440 multiletter control sequences out of 15000+600000
+ 4106 strings out of 475385
+ 76240 string characters out of 2786725
+ 509447 words of memory out of 3000000
+ 25452 multiletter control sequences out of 15000+600000
  474148 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,16n,77p,452b,387s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\User\AppData\Local
-\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Program Files/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on lonka_2.pdf (15 pages, 2797961 bytes).
+ <C:\Users\User\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Program F
+iles/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.p
+fb>
+Output written on lonka_2.pdf (17 pages, 2925227 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
+ 136 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -11,3 +11,6 @@
 \contentsline {subsection}{\numberline {6.2}Asset Portfolio}{12}{}%
 \contentsline {subsection}{\numberline {6.3}Graph}{12}{}%
 \contentsline {section}{\numberline {7}Change Password}{14}{}%
+\contentsline {section}{\numberline {8}Targets}{15}{}%
+\contentsline {subsection}{\numberline {8.1}Uploading Targets}{15}{}%
+\contentsline {subsection}{\numberline {8.2}View Target}{16}{}%
